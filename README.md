@@ -1,1 +1,1 @@
-![image]()
+![image](https://raw.githubusercontent.com/Atharv-110/Code.AI/main/Images/codeai%20thumbnail.png)
